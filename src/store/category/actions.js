@@ -1,0 +1,2 @@
+export const LIST_CATEGORY = 'LIST_CATEGORY';
+export const EDIT_CATEGORY = 'EDIT_CATEGORY';
